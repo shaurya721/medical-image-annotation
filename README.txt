@@ -124,4 +124,4 @@ The app can be deployed to various platforms. Below are the steps for deploying 
 - **Author**: Shaurya
 - **Email**: shaurya.tripathi07@gmail.com
 - **LinkedIn**: https://www.linkedin.com/in/shaurya-tripathi-34378a191/
-
+- **GitHub**: https://github.com/shaurya721/medical-image-annotation.git
